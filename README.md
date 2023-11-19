@@ -1,16 +1,10 @@
-# shawcharityclassicfinal
+# shawcharityclassic
+# avialable platform - Android, iOS and Web
 
-A new Flutter project.
+Android Link - https://play.google.com/store/apps/details?id=com.shawcharity.app&pcampaignid=web_share&pli=1 .
+iOS Link - https://apps.apple.com/ca/app/shaw-charity-classic/id6459196113 .
+Langauge - DART.
+Backend - NodeJs.
+Build on - Android Studio.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Mohd Farhan Tahir
