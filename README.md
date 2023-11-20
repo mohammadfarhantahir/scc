@@ -1,5 +1,5 @@
 **shawcharityclassic**
-**avialable platform** - Android, iOS and Web
+**available platform** - Android, iOS and Web
 
 **Android Link** - https://play.google.com/store/apps/details?id=com.shawcharity.app&pcampaignid=web_share&pli=1 .
 
